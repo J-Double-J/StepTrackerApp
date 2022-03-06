@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624844383248",
+    "project_id": "personal-projects-5786c",
+    "storage_bucket": "personal-projects-5786c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624844383248:android:9edaf98206b22912db1695",
+        "android_client_info": {
+          "package_name": "com.example.steptracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624844383248-4it1rdn98j8h5q2j85so0i7gfqhdrsha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpkQOBloUMosYX-u_v8pu-8YVVu0Nb1Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624844383248-4it1rdn98j8h5q2j85so0i7gfqhdrsha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
